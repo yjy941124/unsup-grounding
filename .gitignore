@@ -7,3 +7,5 @@ proposals/Flickr30kEntities/selective_search/Proposals.hdf5
 results/
 save/
 utils/Flickr30kPhraseLocalizationEval
+utils/GTPhrases_Flickr30kEntities.mat
+data/Flickr30kEntities/phraseList.txt
