@@ -1,0 +1,9 @@
+data/Flickr30kEntities/data.h5
+data/Flickr30kEntities/data.json
+log/
+models/
+predictions/
+proposals/Flickr30kEntities/selective_search/Proposals.hdf5
+results/
+save/
+utils/Flickr30kPhraseLocalizationEval
